@@ -16,16 +16,16 @@
 	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-  
+
+  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
   
 ## About me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p  align="left">¡Hola! Soy Alfonso Rivera, un apasionado programador especializado en Asp .Net Framework y Asp.Net Core. Me encanta enfrentar nuevos desafíos cada día y buscar soluciones creativas para resolverlos. Si estás buscando un desarrollador comprometido y apasionado por su trabajo, ¡has llegado al lugar indicado! ¡Contáctame para trabajar juntos en tu próximo proyecto!.
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 ## 🛠️ My Skills
 <p align="left">
