@@ -13,12 +13,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,ts,react,nextjs,vite,cs,dotnet)](#)  
 
-
-
 	
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,ts,react,nextjs,vite,cs,dotnet)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=debian,docker,git,github,kali,linux,mysql,neovim,npm,postgres,postman,powershell,redhat,ubuntu,vim,visualstudio,vscode,vscodiumwindows)](#)  
 
 ## <picture align="center"> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="left">
