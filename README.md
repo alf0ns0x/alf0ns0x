@@ -16,7 +16,7 @@
 	
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=debian,docker,git,github,kali,linux,neovim,npm,postman,powershell,windows,redhat,ubuntu,vim,visualstudio,vscode,vscodium)](#)  
+[![My Skills](https://skillicons.dev/icons?i=debian,docker,git,github,kali,linux,npm,postman,powershell,windows,redhat,ubuntu,vim,neovim,visualstudio,vscode,vscodium)](#)  
 
 ## <picture align="center"> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="left">
