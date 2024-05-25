@@ -1,5 +1,3 @@
-### <picture align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px> </picture> 
-
 <h1 align="center">Hola, Mi nombre es Alfonso Rivera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
