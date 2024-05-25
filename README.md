@@ -24,7 +24,9 @@
 <p align="center">
 	
 ### <picture align="left"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-
+</p>
+<p align="center">
+	
 ### <picture align="rigth"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
 </p>
 <p align="center">
