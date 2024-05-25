@@ -11,7 +11,7 @@
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> My Skills 🛠️
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,react,nextjs,vite)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,ts,react,nextjs,vite,cs,dotnet)](https://skillicons.dev)  
 
 
 
