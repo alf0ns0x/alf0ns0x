@@ -4,6 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+practicante+Asp.Net+Framework.;Me+gusta+seguir+aprendiendo." /></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
@@ -14,8 +17,7 @@
 	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+  
 ## About me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p >¡Hola! Soy Alfonso Rivera, un apasionado programador especializado en Asp .Net Framework y Asp.Net Core. Me encanta enfrentar nuevos desafíos cada día y buscar soluciones creativas para resolverlos. Si estás buscando un desarrollador comprometido y apasionado por su trabajo, ¡has llegado al lugar indicado! ¡Contáctame para trabajar juntos en tu próximo proyecto!.
 </p>
