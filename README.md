@@ -1,7 +1,4 @@
-## Hola, Mo nombre es Alfonso Rivera <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+## Hola, Mi nombre es Alfonso Rivera <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+practicante+Asp.Net+Framework.;Me+gusta+seguir+aprendiendo." /></a>
 </p>
@@ -25,6 +22,9 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
     </a>
   </p>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## About me <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p >¡Hola! Soy Alfonso Rivera, un apasionado programador especializado en Asp .Net Framework y Asp.Net Core. Me encanta enfrentar nuevos desafíos cada día y buscar soluciones creativas para resolverlos. Si estás buscando un desarrollador comprometido y apasionado por su trabajo, ¡has llegado al lugar indicado! ¡Contáctame para trabajar juntos en tu próximo proyecto!.
 </p>
