@@ -5,8 +5,6 @@
   <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture>
 
 
- <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23000046&size=40&center=true&vCenter=true&width=600&height=43&lines=¡Bienvenido+a+mi+perfil!;¡Mi+nombre+es+Alfonso!;¡Sigan+viendo!"></a></p>
-
 
 <!-- <p  align="left">¡Hola! Soy Alfonso Rivera, un apasionado programador especializado en Asp .Net Framework y Asp.Net Core. Me encanta enfrentar nuevos desafíos cada día y buscar soluciones creativas para resolverlos. Si estás buscando un desarrollador comprometido y apasionado por su trabajo, ¡has llegado al lugar indicado! ¡Contáctame para trabajar juntos en tu próximo proyecto!.
 </p>-->
