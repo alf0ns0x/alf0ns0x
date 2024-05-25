@@ -1,5 +1,6 @@
-## Hola, Mi nombre es Alfonso Rivera <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-<p>
+<h1 align="center">Hola, Mi nombre es Alfonso Rivera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Soy+un+practicante+Asp.Net+Framework.;Me+gusta+seguir+aprendiendo." /></a>
 </p>
 
