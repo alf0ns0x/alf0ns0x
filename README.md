@@ -1,9 +1,3 @@
-<style>
-  body {
-    background-color: black;
-    color: white;
-  }
-</style>
 <p align="center">
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px></picture>
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23000046&size=40&center=true&vCenter=true&width=600&height=43&lines=¡Bienvenido+a+mi+perfil!;¡Mi+nombre+es+Alfonso!;¡Sigan+viendo!"></a>
