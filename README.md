@@ -5,14 +5,11 @@
 
   Para poner todo el fondo negro en tu README principal en GitHub, puedes utilizar la siguiente sintaxis de Markdown:
 
-```markdown
 ```css
 body {
     background-color: black;
     color: white;
 }
-```
-```
 
 Este código CSS se encargará de establecer el fondo de todo el cuerpo del documento en negro y el color del texto en blanco. También puedes personalizar otros estilos según tus necesidades. Una vez que hayas agregado este código a tu README, asegúrate de que el lenguaje esté correctamente especificado como CSS para que funcione correctamente.
 <!-- <p  align="left">¡Hola! Soy Alfonso Rivera, un apasionado programador especializado en Asp .Net Framework y Asp.Net Core. Me encanta enfrentar nuevos desafíos cada día y buscar soluciones creativas para resolverlos. Si estás buscando un desarrollador comprometido y apasionado por su trabajo, ¡has llegado al lugar indicado! ¡Contáctame para trabajar juntos en tu próximo proyecto!.
