@@ -22,5 +22,9 @@
 <p align="center">
 <a href="https://pe.linkedin.com/in/jhumklin-alfonso-rivera-quispe-286826270" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
+ <a href="https://www.facebook.com/jhon.rivera.7334/?locale=es_LA" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="adam pithen wala" height="30" width="40" /></a>
+
 </p>
 
